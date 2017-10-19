@@ -10,7 +10,8 @@ Define face cards as:
  King = next player draws 2 cards from draw pile
  Ace = next player draws 4 cards from draw pile 
  Joker = current player draws 2 cards from draw pile:
-  If Joker has no suit:
+  If Joker has no suit:// Jokers do not have a suit??????? 
+ // http://i0.kym-cdn.com/photos/images/newsfeed/001/183/604/ee9.png 
     then Joker = suit4
   
   Define order of players:
