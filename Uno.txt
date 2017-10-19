@@ -1,0 +1,56 @@
+Define cards 2-10 each with their four suits:
+  Heart =  suit1
+  Diamond = suit2
+  Clubs = suit3
+  Spades = suit4
+  
+Define face cards as:
+ Jack = switch rotation order of players until another jack is put down
+ Queen = skip next turn
+ King = next player draws 2 cards from draw pile
+ Ace = next player draws 4 cards from draw pile 
+ Joker = current player draws 2 cards from draw pile:
+  If Joker has no suit:
+    then Joker = suit4
+  
+  Define order of players:
+   First player = player with the oldest birthday
+   Next player = player with the next oldest birthday
+    Repeat until all players have been named
+    
+   Give first player 10 cards:
+    Give next player 10 cards:
+    Repeat until all players have 10 cards
+    
+    Player puts cards in ascending xor descending order:
+      Repeat until all players have sorted thier cards
+      
+      Rest of Cards = draw pile
+    
+        First player puts down any card in the middle to start the playing pile:
+         Turn is over and the next player's turn starts
+
+         Next player's turn:
+          If there is a face card at the top of the playing pile: 
+           then current player must oblige and their turn is over
+          If player has a card with a matching suit or number to the top card of the playing pile:
+           then they put it down and turn is over:
+          else : 
+           player looks at hand if no cards are playable:
+             then player takes the top card from the draw pile 
+           now they can put down a card and their turn is over
+          If player has multiple cards that they can put down:
+           then they must choose only 1 card at random:
+          If player takes a Joker from the top of the draw pile: 
+           then they must take additional 2 cards from the draw pile
+          If draw pile empties: 
+           then turn the playing pile face-down and start new playing pile with the top card of the new draw pile:
+          If player has one card left at the end of their turn: 
+           then they must say "uno"
+          Turn is over and the next player's turn starts
+  
+           Repeat previous selection until a player has 0 cards:
+             If a player has 0 cards:
+						 	then they win:
+               else :
+							 	they don't win
