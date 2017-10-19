@@ -51,6 +51,6 @@ Define face cards as:
   
            Repeat previous selection until a player has 0 cards:
              If a player has 0 cards:
-						 	then they win:
-               else :
-							 	they don't win
+                then they win:
+                 else :
+                  they don't win
