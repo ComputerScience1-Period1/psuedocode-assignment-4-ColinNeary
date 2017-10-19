@@ -12,6 +12,10 @@ Define face cards as:
  Joker = current player draws 2 cards from draw pile:
   If Joker has no suit:
     then Joker = suit4
+    
+  //Playing with a set of uno cards may be easier
+  https://www.amazon.com/Mattel-42003-Uno-Card-Game/dp/B00004TZY8/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1508432800&sr=1-4&keywords=uno
+  //
   
   Define order of players:
    First player = player with the oldest birthday
