@@ -1,4 +1,6 @@
 //if you're making uno, then wouldn't you have colors and wild cards
+Shuffle deck
+
 Define cards 2-10 each with their four suits:
   Heart =  suit1
   Diamond = suit2
