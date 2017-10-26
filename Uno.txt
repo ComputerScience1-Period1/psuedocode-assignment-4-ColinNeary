@@ -63,3 +63,4 @@ Define face cards as:
                 then they win:
                  else :
                   they don't win
+Remember to have fun
