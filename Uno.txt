@@ -56,6 +56,10 @@ Define face cards as:
            then turn the playing pile face-down and start new playing pile with the top card of the new draw pile:
           If player has one card left at the end of their turn: 
            then they must say "uno"
+          If player does not have a card that matches the deck
+            Another player can challengr
+              Else is successful the player with one card left who called uno draws 4 cards
+                Else is unsuccessful the player who challenged draws the 4 cards
           Turn is over and the next player's turn starts
   
            Repeat previous selection until a player has 0 cards:
