@@ -5,7 +5,7 @@ Define cards 2-10 each with their four suits:
   Heart =  suit1
   Diamond = suit2
   Clubs = suit3
-  Spades = suit4
+  Spades = suit4 
   
 Define face cards as:
  Jack = switch rotation order of players until another jack is put down
