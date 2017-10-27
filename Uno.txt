@@ -1,5 +1,5 @@
 //if you're making uno, then wouldn't you have colors and wild cards
-Shuffle deck
+Shuffle deck fully
 
 Define cards 2-10 each with their four suits:
   Heart =  suit1
@@ -34,7 +34,7 @@ Define face cards as:
     Player puts cards in ascending xor descending order:
       Repeat until all players have sorted thier cards
       
-      Rest of Cards = draw pile
+      Rest of Cards = draw pile deck
     
         First player puts down any card in the middle to start the playing pile:
          Turn is over and the next player's turn starts
@@ -63,3 +63,4 @@ Define face cards as:
                 then they win:
                  else :
                   they don't win
+                  Have Fun!
