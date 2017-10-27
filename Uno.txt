@@ -22,7 +22,7 @@ Define face cards as:
   Define order of players:
     //doesn't really matter,make it random rock paper scissors for who goes first.
    First player = player with the oldest birthday
-   Next player = player with the next oldest birthday
+   Next player = counter clockwise
     Repeat until all players have been named
       //make integer carts with a value of ten
       int Cards = 10;
