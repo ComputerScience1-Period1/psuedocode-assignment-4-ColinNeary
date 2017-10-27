@@ -58,7 +58,7 @@ Define face cards as:
            then they must say "uno"
           Turn is over and the next player's turn starts
   
-           Repeat previous selection until a player has 0 cards:
+  Repeat previous selection until a player has 0 cards:
              If a player has 0 cards:
                 then they win:
                  else :
